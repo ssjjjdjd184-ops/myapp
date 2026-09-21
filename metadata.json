@@ -1,0 +1,7 @@
+{
+  "name": "TripCalc GPS & Money Manager",
+  "description": "Native GPS trip tracker for motorcycle, bike, and walking with offline financial expenses, savings, and credit management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
